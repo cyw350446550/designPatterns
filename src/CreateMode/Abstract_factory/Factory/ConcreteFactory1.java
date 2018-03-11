@@ -6,6 +6,7 @@ import CreateMode.Abstract_factory.Product.Product_B.ConcreteProduct_B;
 import CreateMode.Abstract_factory.Product.Product_B.Product_B;
 
 /**
+ *
  * Created by Administrator on 2018/3/11.
  */
 public class ConcreteFactory1 implements Factory{
